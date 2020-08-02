@@ -1,3 +1,3 @@
 # angelapandit.github.io
 Personal Website
-http://www.angelapandit.me/
+http://angelapndt3.github.io
